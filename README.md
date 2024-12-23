@@ -1,0 +1,1 @@
+# static-ip-in-vm
